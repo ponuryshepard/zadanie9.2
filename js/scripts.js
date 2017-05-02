@@ -5,5 +5,5 @@ var arr = allNames.concat(femaleNames,maleNames);
 var newName = 'Marian'
 
 if ( allNames.indexOf(newName) === -1 ) {
-    var newName = allNames.push('Marian');
+    allNames.push(var newName);
 } 
